@@ -35,8 +35,7 @@
 <div align=center>
 <hr>
 	
-![JeongUm's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongUm142&hide=prs,issues)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
