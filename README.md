@@ -38,12 +38,5 @@
 	
 <div align=center>
 
-#  Tech Stack 📚
-<img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=jointreeGroupware&repo=jointree" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanlee27&repo=FlowerShop_Lilac" />
-</div>
-### [FlowerShop-SemiProject]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeongUm142&repo=CashBook)](https://github.com/JeongUm142/CashBook)
-
 📞![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JeongUm142)
 
