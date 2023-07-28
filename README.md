@@ -1,6 +1,13 @@
 <div align=center>
 	
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=JeongUm%20Github!&fontSize=50&fontColor=FDEED6&&fontAlignY=40&animation=fadeIn&fontAlign=73" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=JeongUm%20Github!&fontSize=50&fontColor=FDEED6&fontAlignY=40&animation=fadeIn&fontAlign=73" />
+
+## 안녕하세요
+</div>
+
+<div align=center>
+	
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongUm142&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)
 
 </div>
 
@@ -33,7 +40,7 @@
 </div>
 
 ![JeongUm's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongUm142&hide=prs,issues)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />
+![JeongUm's GitHub stats](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />)
 
 
 
