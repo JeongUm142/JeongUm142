@@ -30,13 +30,12 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div><br>
 </div>
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JeongUm142&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JeongUm142&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-	
-<div align=center>
+![JeongUm's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongUm142&hide=prs,issues)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />
 
-📞
+
+
+
 
