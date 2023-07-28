@@ -2,7 +2,6 @@
 	
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=JeongUm%20Github!&fontSize=50&fontColor=FDEED6&fontAlignY=40&animation=fadeIn&fontAlign=73" />
 
-안녕하세요. 개발자를 꿈꾸는 신정음입니다.
 </div>
 
 <div align=center>
@@ -40,6 +39,7 @@
 </div>
 
 <div align=center>
+<hr>
 	
 ![JeongUm's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongUm142&hide=prs,issues)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />
