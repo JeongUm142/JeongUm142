@@ -39,9 +39,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
+<div align=center>
+	
 ![JeongUm's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongUm142&hide=prs,issues)
-![JeongUm's GitHub stats](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUm142&layout=compact&hide=c" height=150 />
 
+</div>
 
 
 
