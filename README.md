@@ -2,7 +2,7 @@
 	
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=JeongUm%20Github!&fontSize=50&fontColor=FDEED6&fontAlignY=40&animation=fadeIn&fontAlign=73" />
 
-### 안녕하세요. 개발자를 꿈꾸는 신정음입니다.
+안녕하세요. 개발자를 꿈꾸는 신정음입니다.
 </div>
 
 <div align=center>
