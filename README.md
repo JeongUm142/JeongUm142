@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+<div align=center>
+	
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=JeongUm%20Github!&fontSize=50&fontColor=FDEED6&&fontAlignY=40&animation=fadeIn&fontAlign=73" />
 
+</div>
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
 <div align=center>
